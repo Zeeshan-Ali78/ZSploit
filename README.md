@@ -1,7 +1,9 @@
 # Z-Sploit
 
 **A guided, terminal-based wrapper around Tor, Nmap, and Metasploit for streamlined penetration-testing workflows.**
-
+<p align="center">
+<img width="100%" src="1.png"/>
+</p>
 Z-Sploit chains together well-known, legitimate security tools into a single guided session — no manual chaining required. It checks for and installs missing dependencies, anonymises traffic through Tor, runs Nmap reconnaissance, and (optionally) hands the target straight to Metasploit, all from one menu.
 
 ---
